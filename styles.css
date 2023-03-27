@@ -1,0 +1,63 @@
+/***Title section****/
+.navbar-brand{
+  padding-left:20px;
+  font-size:25px;
+}
+.nav-item{
+  padding:0 18px;
+}
+.buttonproblem{
+  text-align:center;
+}
+.downloadbuttons{
+  margin-top:15%;
+}
+
+h1{
+  font-family: 'Crimson Text', serif;
+  font-weight:bolder;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color:#184D47;
+}
+
+h2{
+  font-size:3.5rem;
+  font-weight:bolder;
+}
+.container-fluid{
+   padding:5% 10%;
+}
+#title{
+  background-image: url("Images/bg.jpg");
+  background-size: cover;
+}
+
+/*************Feature section**********/
+#features{
+  background-color:#FFDAC7;
+  margin:auto;
+}
+
+.featurebox{
+  text-align:center;
+  padding:5%;
+}
+
+h3{
+  font-family: 'Cardo', serif;
+  font-weight:900;
+  color:#184D47;
+}
+
+p{
+  font-family: 'Cardo', serif;
+  color:#184D47;
+}
+.featureicons{
+  color:#FF5C58;
+  margin-bottom:1.5rem;
+}
+.featureicons:hover{
+  color:#184D47;
+}
